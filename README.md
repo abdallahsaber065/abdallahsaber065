@@ -14,7 +14,7 @@ I specialize in transforming heavy, manual workflows into seamless, automated sy
 
 - 🌍 **Location:** Alexandria, Egypt
 - 💼 **Currently Architecting:** Enterprise Translation Engines & Role-Aware CMS Platforms
-- 🤝 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/abdallahsaber065) | [Portfolio](https://abdallahsaber.netlify.app/) ---
+- 🤝 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/abdallahsaber065) | [Portfolio](https://abdallahsaber.netlify.app/)
 
 ### ⚙️ Weapons of Choice
 
@@ -34,31 +34,23 @@ I specialize in transforming heavy, manual workflows into seamless, automated sy
 
 ---
 
-### 📊 System Analytics
+### 🚀 Flagship Systems (Recent Work)
 
 > *Note: The vast majority of my enterprise engineering and client work is hosted in **private repositories** under NDAs. The analytics below reflect my overall system output, including private contributions.*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallahsaber065&show_icons=true&count_private=true&hide_border=true&title_color=00FFA3&text_color=A3B3BC&icon_color=00FFFF&bg_color=0B0F19&hide_rank=false" width="48%" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahsaber065&hide_border=true&title_color=00FFA3&text_color=A3B3BC&sideLabels=A3B3BC&sideNums=00FFFF&dates=00FFA3&stroke=10B981&ring=00FFFF&fire=00FFA3&currStreakNum=ffffff&currStreakLabel=A3B3BC&background=0B0F19" width="48%" />
-</div>
+</div
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahsaber065&layout=compact&hide_border=true&title_color=00FFA3&text_color=A3B3BC&bg_color=0B0F19&langs_count=6" width="60%" />
-</div>
-
----
-
-### 🚀 Flagship Architecture (Recent Work)
-
-| System | Engineering Focus | Tech Stack |
-|---------|-------------|------------|
-| **Argaam AI Translation Engine** | Multi-phase enterprise pipeline reducing latency by 70%. | `FastAPI`, `Python`, `SSE`, `Aho-Corasick` |
-| **Planning Accuracy System** | Full-Stack PWA dashboard with mandatory TOTP 2FA. | `React`, `PostgreSQL`, `Vite`, `JWT` |
-| **Dev Trend CMS** | Role-aware platform with Gemini AI content generation. | `Next.js 16`, `Prisma`, `Gemini AI` |
-| **LinkedIn AI Agent** | Automated content workflow managed entirely via Telegram. | `Python`, `n8n`, `Telegram API` |
+| System | What it is | Tech Stack (core) |
+|--------|------------|-------------------|
+| **Argaam AI Translation Engine** | AI translation platform for Official Papers | `FastAPI`, `Python`, `React`, `PostgreSQL`, `Docker` |
+| **Workforce Task Management System** | Workforce Task Management & Planning Accuracy System | `React`, `FastAPI`, `PostgreSQL`, `TypeScript`, `PWA` |
+| **Dev Trend CMS** | Developer blog + role-aware CMS for AI & web content. | `Next.js`, `React`, `Prisma`, `PostgreSQL`, `Tailwind CSS` |
+| **LinkedIn AI Agent** | Agent that automate and manage LinkedIn posts and runs approvals inside Telegram. | `Python`, `Telegram Bot API`, `n8n` |
 
 ---
 <div align="center">
