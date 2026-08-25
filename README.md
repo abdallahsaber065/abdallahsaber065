@@ -14,7 +14,7 @@ I specialize in transforming heavy, manual workflows into seamless, automated sy
 
 - 🌍 **Location:** Alexandria, Egypt
 - 💼 **Currently Architecting:** Enterprise Translation Engines & Role-Aware CMS Platforms
-- 🤝 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/abdallahsaber065) | [Portfolio](https://abdallahsaber.netlify.app/)
+- 🤝 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/abdallahsaber065)
 
 ### ⚙️ Weapons of Choice
 
